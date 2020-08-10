@@ -41,3 +41,21 @@ Reading List for CSCI 1302
       $ cd ~/unixstuff
       $ cp ~/science.txt .
       ```
+      
+## Reading 02
+
+   We recommend following along with the tutorials on odin instead of your local machine. If you haven't already 
+   completed the [Odin setup tutorial](https://github.com/cs1302uga/cs1302-exercises/blob/master/misc/OdinSetup.md), 
+   you should do so before continuing.
+
+   **Note:** This reading teaches you how to write/modify source code and then compile and run it in a Unix environment. 
+   To be successful in 1302, you need to master the concepts described in this reading as all future projects/exercises 
+   depend on it. 
+
+   Read and take thorough notes on the following:
+
+   * [Emacs Tutorial](https://github.com/cs1302uga/cs1302-tutorials/blob/master/emacs/emacs.md)
+   * [Emacs Reference Card](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf) 
+      * We recommend you print the Emacs reference card
+   * [CSCI 1302 Package Tutorial](https://github.com/cs1302uga/cs1302-tutorials/blob/master/packages.md)
+      * The 1302 Package Tutorial explains how to compile code in a UNIX environment.
