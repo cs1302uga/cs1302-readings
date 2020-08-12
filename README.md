@@ -59,3 +59,10 @@ Reading List for CSCI 1302
       * We recommend you print the Emacs reference card
    * [CSCI 1302 Package Tutorial](https://github.com/cs1302uga/cs1302-tutorials/blob/master/packages.md)
       * The 1302 Package Tutorial explains how to compile code in a UNIX environment.
+      
+## Reading 03
+
+   Read and take thorough notes on the following:
+
+   * [Unix Tutorial Five](http://www.ee.surrey.ac.uk/Teaching/Unix/unix5.html)
+   * [CSCI 1302 Octal Mode Reading](https://github.com/cs1302uga/cs1302-tutorials/blob/master/octal-mode.md)
