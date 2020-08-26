@@ -66,3 +66,18 @@ Reading List for CSCI 1302
 
    * [Unix Tutorial Five](http://www.ee.surrey.ac.uk/Teaching/Unix/unix5.html)
    * [CSCI 1302 Octal Mode Reading](https://github.com/cs1302uga/cs1302-tutorials/blob/master/octal-mode.md)
+   
+## Reading 04
+
+   Read, watch, and take thorough notes on the following:
+
+   * [Exceptions Tutorial](https://github.com/cs1302uga/cs1302-tutorials/blob/master/exceptions/exceptions.md)
+   * [Command-Line Arguments Tutorial](https://github.com/cs1302uga/cs1302-tutorials/blob/master/cla/cla.md)
+   
+## Reading 05
+
+   Read and take thorough notes on the following:
+
+   * [Javadoc and API Documentation Tutorial](https://github.com/cs1302uga/cs1302-tutorials/blob/master/javadoc/javadoc.md)
+   * [1302 Code Style Guidelines](https://github.com/cs1302uga/cs1302-styleguide)
+      * Make sure you complete the setup for checkstyle and create the proper configuration file for emacs (or vi).
