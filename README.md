@@ -81,3 +81,15 @@ Reading List for CSCI 1302
    * [Javadoc and API Documentation Tutorial](https://github.com/cs1302uga/cs1302-tutorials/blob/master/javadoc/javadoc.md)
    * [1302 Code Style Guidelines](https://github.com/cs1302uga/cs1302-styleguide)
       * Make sure you complete the setup for checkstyle and create the proper configuration file for emacs (or vi).
+      
+## Reading 06
+
+   Read and take thorough notes on the following:
+
+   * [Java Interfaces Tutorial](https://github.com/cs1302uga/cs1302-tutorials/blob/master/interfaces/interfaces.md)
+   
+## Reading 07
+
+   Read and take thorough notes on the following:
+
+   * [Default Methods Tutorial](https://github.com/cs1302uga/cs1302-tutorials/blob/master/default-methods/default-methods.md)
