@@ -93,3 +93,46 @@ Reading List for CSCI 1302
    Read and take thorough notes on the following:
 
    * [Default Methods Tutorial](https://github.com/cs1302uga/cs1302-tutorials/blob/master/default-methods/default-methods.md)
+   
+## Reading 08
+
+   Read and take thorough notes on the following:
+
+   * [Inheritance Tutorial](https://github.com/cs1302uga/cs1302-tutorials/blob/master/inheritance/inheritance.md)
+   
+## Reading 09
+
+   Read and take thorough notes on the following:
+
+   * [1302 Variable Refresher](https://github.com/cs1302uga/cs1302-tutorials/blob/master/refresher/variables.md)
+      * This short reading addresses some misconceptions we've seen from students throughout the semester. Please read it carefully and ask any related questions on Piazza.
+   * [Pro Git Ch. 1.1--1.4 and 1.7](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+
+## Reading 10
+
+   Read and take thorough notes on the following:
+
+   * [UML Reading](https://github.com/cs1302uga/cs1302-tutorials/blob/master/uml/uml.md)
+   * [Visibility Reading](https://github.com/cs1302uga/cs1302-tutorials/blob/master/visibility/visibility.md)
+   
+## Reading 10.5
+
+   Read and take thorough notes on the following:
+
+   * [ADTs and Lists Tutorial](https://github.com/cs1302uga/cs1302-tutorials/blob/master/adt-and-links/adt-and-links.md)
+   * [List ADT Project Description](https://github.com/cs1302uga/cs1302-listadt)
+   * [StringList Interface API Documentation](http://cobweb.cs.uga.edu/~mec/cs1302/listadt-api/)
+   
+## Reading 11
+
+   Read and take thorough notes on the following:
+
+   * [VarArgs Reading](https://github.com/cs1302uga/cs1302-tutorials/blob/master/varargs/varargs.md)
+   
+We highly recommend reading the following closely for a second time:
+
+   * [ADTs and Lists Tutorial](https://github.com/cs1302uga/cs1302-tutorials/blob/master/adt-and-links/adt-and-links.md)
+   * [List ADT Project Description](https://github.com/cs1302uga/cs1302-listadt)
+   * [StringList Interface API Documentation](http://cobweb.cs.uga.edu/~mec/cs1302/listadt-api/)
+
+## EXAM BREAK
