@@ -102,6 +102,7 @@ Reading List for CSCI 1302
    
 ## Reading 09
 
+   **Note to self: Exercise 09 uses UML. Consider moving that reading up here.**
    Read and take thorough notes on the following:
 
    * [1302 Variable Refresher](https://github.com/cs1302uga/cs1302-tutorials/blob/master/refresher/variables.md)
