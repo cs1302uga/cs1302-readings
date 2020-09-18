@@ -137,3 +137,20 @@ We highly recommend reading the following closely for a second time:
    * [StringList Interface API Documentation](http://cobweb.cs.uga.edu/~mec/cs1302/listadt-api/)
 
 ## EXAM BREAK
+
+## Reading 12
+
+   Read and take thorough notes on the following:
+
+   * [The Object Class](https://github.com/cs1302uga/cs1302-tutorials/blob/master/inheritance/inheritance.md#the-object-class)
+   * The extremely short and infinitely beneficial [1302 Scripts Tutorial](https://github.com/cs1302uga/cs1302-tutorials/blob/master/scripts/scripts.md)
+       * Common reaction to this reading: "Whoa!"
+
+## Reading 13
+
+   Read and take thorough notes on the following:
+
+   * [1302 Generic Classes Tutorial](https://github.com/cs1302uga/cs1302-tutorials/blob/master/generics/generic-classes/generic-classes.md)
+   * [The Java™ Tutorials: Why Use Generics?](https://docs.oracle.com/javase/tutorial/java/generics/why.html)
+   * [The Java™ Tutorials: Generic Types](https://docs.oracle.com/javase/tutorial/java/generics/types.html)
+   * [The Java™ Tutorials: Raw Types](https://docs.oracle.com/javase/tutorial/java/generics/rawTypes.html)
