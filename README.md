@@ -88,7 +88,11 @@ Reading List for CSCI 1302
 
    * [Java Interfaces Tutorial](https://github.com/cs1302uga/cs1302-tutorials/blob/master/interfaces/interfaces.md)
    
-## Reading 07
+## Reading 07 
+   **- CONSIDER CHANGING THIS - change to instead be an interface example with the Java List interface. Have them write a program 
+   that uses the interface and then allow them to plug in different interface implementations (ArrayList, LinkedList) seamlessly. 
+   The application could be a shopping list, for example. Would help the students see the driver program side early which might help
+   them with project 2 (listadt).**
 
    Read and take thorough notes on the following:
 
