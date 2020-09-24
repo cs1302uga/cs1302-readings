@@ -187,4 +187,4 @@ We highly recommend reading the following closely for a second time:
 
    * [The Java™ Tutorials: Lambda Expressions: Ideal Use Case for Lambda Expressions](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html#use-case) (through the end of the "Approach 5" sub-section)
    * [Package java.util.function Description](https://docs.oracle.com/javase/8/docs/api/java/util/function/package-summary.html#package.description) (familiarize yourself with the classes and interfaces)
-   * [@FunctionalInterface API Documentation[(https://docs.oracle.com/javase/8/docs/api/java/lang/FunctionalInterface.html) (read this entire page; it's roughly one paragraph)
+   * [@FunctionalInterface API Documentation](https://docs.oracle.com/javase/8/docs/api/java/lang/FunctionalInterface.html) (read this entire page; it's roughly one paragraph)
