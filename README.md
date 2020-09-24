@@ -158,3 +158,33 @@ We highly recommend reading the following closely for a second time:
    * [The Java™ Tutorials: Why Use Generics?](https://docs.oracle.com/javase/tutorial/java/generics/why.html)
    * [The Java™ Tutorials: Generic Types](https://docs.oracle.com/javase/tutorial/java/generics/types.html)
    * [The Java™ Tutorials: Raw Types](https://docs.oracle.com/javase/tutorial/java/generics/rawTypes.html)
+   
+## Reading 13.5
+
+   Read and take thorough notes on the following:
+
+   * [Pro Git Ch. 2.1--2.4](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
+   * [Pro Git Ch. 3.1--3.4](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
+
+   **Please Note:** A branch's history does not begin at its branching point. The commit history of a branch includes the 
+   latest commit in the branch as well as all commits that can be reached by tracing backward through the commit history 
+   (even through branching points). When tracing a branch's history using the graphical log output (--graph), you should 
+   not stop at the point where the branch name was created (or any other branching points).
+
+## Reading 14
+
+   Read and take thorough notes on the following:
+
+   * [1302 Generic Methods Tutorial](https://github.com/cs1302uga/cs1302-tutorials/blob/master/generics/generic-methods/generic-methods.md)
+   * [The Java™ Tutorials: Generic Methods](https://docs.oracle.com/javase/tutorial/java/generics/methods.html)
+   * [The Java™ Tutorials: Bounded Type Parameters](https://docs.oracle.com/javase/tutorial/java/generics/bounded.html)
+   * [The Java™ Tutorials: Generic Methods and Bounded Type Parameters](https://docs.oracle.com/javase/tutorial/java/generics/boundedTypeParams.html)
+   * [The Java™ Tutorials: Generics, Inheritance, and Subtypes](https://docs.oracle.com/javase/tutorial/java/generics/inheritance.html)
+   
+## Reading 15
+
+   Read and take thorough notes on the following:
+
+   * [The Java™ Tutorials: Lambda Expressions: Ideal Use Case for Lambda Expressions](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html#use-case) (through the end of the "Approach 5" sub-section)
+   * [Package java.util.function Description](https://docs.oracle.com/javase/8/docs/api/java/util/function/package-summary.html#package.description) (familiarize yourself with the classes and interfaces)
+   * [@FunctionalInterface API Documentation[(https://docs.oracle.com/javase/8/docs/api/java/lang/FunctionalInterface.html) (read this entire page; it's roughly one paragraph)
