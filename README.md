@@ -197,3 +197,26 @@ We highly recommend reading the following closely for a second time:
       * This reading is a continuation of last week's reading on lambda expressions. Make sure you go through each of the nine approaches carefully,
          type out the code for each method, call the methods to test them, take notes, and write down questions.
       * The tutorial provides a link to all of the code used in the examples. If the code you type out isn't working properly, you can use this as a reference.
+      
+## Reading 17
+
+   Read and take thorough notes on the following:
+
+   * [CSCI 1302 Generic Types Tutorial](https://github.com/cs1302uga/cs1302-tutorials/blob/master/generics/generic-types/generic-types.md)
+      * This is a brief exercise that should clarify some of the questions brought up in last week's exercises on generics.
+   * [Project 3 Description](https://github.com/cs1302uga/cs1302-genlistadt)
+   * [GenList<T> API Documentation](http://cobweb.cs.uga.edu/~mec/cs1302-genlistadt-doc/index.html)
+   
+## Reading 18
+
+   Read and take thorough notes on the following:
+
+   * [Method References](https://dzone.com/articles/methodreference)
+      * Project Specific Use of Method References: [example1](http://csweb.cs.uga.edu/~mec/cs1302-genlistadt-doc/cs1302/genlistadt/GenList.html#min-java.util.Comparator-)
+        , [example2](http://csweb.cs.uga.edu/~mec/cs1302-genlistadt-doc/cs1302/genlistadt/GenList.html#toArray-java.util.function.IntFunction-)
+   * [Project 3 Description](https://github.com/cs1302uga/cs1302-genlistadt)
+   * [GenList<T> API Documentation](http://cobweb.cs.uga.edu/~mec/cs1302-genlistadt-doc/index.html)
+      * Yes, we want you to read through this again.
+   * [Lambda Expressions](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html)
+      * We want you all to read this tutorial one more time (at least). Understanding lambda expressions is vital to working with 
+        JavaFX Graphical User Interfaces.
