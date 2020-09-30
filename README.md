@@ -188,3 +188,12 @@ We highly recommend reading the following closely for a second time:
    * [The Java™ Tutorials: Lambda Expressions: Ideal Use Case for Lambda Expressions](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html#use-case) (through the end of the "Approach 5" sub-section)
    * [Package java.util.function Description](https://docs.oracle.com/javase/8/docs/api/java/util/function/package-summary.html#package.description) (familiarize yourself with the classes and interfaces)
    * [@FunctionalInterface API Documentation](https://docs.oracle.com/javase/8/docs/api/java/lang/FunctionalInterface.html) (read this entire page; it's roughly one paragraph)
+   
+## Reading 16
+
+   Read and take thorough notes on the following:
+
+   * [The Java™ Tutorials: Lambda Expressions](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html)
+      * This reading is a continuation of last week's reading on lambda expressions. Make sure you go through each of the nine approaches carefully,
+         type out the code for each method, call the methods to test them, take notes, and write down questions.
+      * The tutorial provides a link to all of the code used in the examples. If the code you type out isn't working properly, you can use this as a reference.
