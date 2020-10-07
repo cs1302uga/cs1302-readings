@@ -220,3 +220,15 @@ We highly recommend reading the following closely for a second time:
    * [Lambda Expressions](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html)
       * We want you all to read this tutorial one more time (at least). Understanding lambda expressions is vital to working with 
         JavaFX Graphical User Interfaces.
+   
+## Reading 19
+   
+   JavaFX is a set of graphics and media packages that enables developers to design, create, test, debug, and deploy rich client 
+   applications that operate consistently across diverse platforms. 
+   
+   Please fully engage with the following readings related to JavaFX:
+
+   * [CSCI 1302 JavaFX Starter Tutorial](https://github.com/cs1302uga/cs1302-tutorials/blob/master/javafx/javafx.md)
+      * This is critical to run GUI applications on Odin. This is also critical for the next project so each individual needs to complete it.
+   * [javafx.application.Application API Documentation](https://docs.oracle.com/javase/8/javafx/api/javafx/application/Application.html)
+      * Carefully read the introduction and compile/run the example code on Odin.
