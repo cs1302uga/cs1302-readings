@@ -232,3 +232,19 @@ We highly recommend reading the following closely for a second time:
       * This is critical to run GUI applications on Odin. This is also critical for the next project so each individual needs to complete it.
    * [javafx.application.Application API Documentation](https://docs.oracle.com/javase/8/javafx/api/javafx/application/Application.html)
       * Carefully read the introduction and compile/run the example code on Odin.
+      
+## EXAM BREAK
+
+## Reading 20
+
+   Fully engage with the following, including each class's class-level documentation (which often includes great examples) and each class's 
+   inheritance hierarchy (which often provides classes with a lot of useful inherited members):
+
+   * [javafx.scene.image.ImageView API Documentation](https://openjfx.io/javadoc/11/javafx.graphics/javafx/scene/image/ImageView.html)
+      * Execute the sample code on Odin.
+      * You will need to wget the flower image found [here](http://csweb.cs.uga.edu/~mec/cs1302/flower.png).
+   * [javafx.scene.layout.HBox API Documentation](https://openjfx.io/javadoc/11/javafx.graphics/javafx/scene/layout/HBox.html)
+      * Make sure you understand all sample code as it will be useful in the class exercises and projects.
+   * [javafx.scene.layout.VBox API Documentation](https://openjfx.io/javadoc/11/javafx.graphics/javafx/scene/layout/VBox.html)
+      * Make sure you understand all sample code as it will be useful in the class exercises and projects.
+   * [javafx.scene.control.TextField API Documentation](https://openjfx.io/javadoc/11/javafx.controls/javafx/scene/control/TextField.html)
