@@ -248,3 +248,19 @@ We highly recommend reading the following closely for a second time:
    * [javafx.scene.layout.VBox API Documentation](https://openjfx.io/javadoc/11/javafx.graphics/javafx/scene/layout/VBox.html)
       * Make sure you understand all sample code as it will be useful in the class exercises and projects.
    * [javafx.scene.control.TextField API Documentation](https://openjfx.io/javadoc/11/javafx.controls/javafx/scene/control/TextField.html)
+   
+## Reading 21
+
+   Read and take thorough notes on the following:
+
+   * [CSCI 1302 JavaFX Component Tutorial](https://github.com/cs1302uga/cs1302-tutorials/blob/master/components/components.md)
+   
+## Reading 22
+
+   Read and take thorough notes on the following:
+
+   * [CSCI 1302 Thread Tutorial](https://github.com/cs1302uga/cs1302-tutorials/blob/master/threads/brief-intro-threads.md)
+   * [Project 4 Description](https://github.com/cs1302uga/cs1302-gallery)
+      * Pay close attention to the entire project description, especially the part about threads and the Google Gson library for parsing JSON.
+
+
