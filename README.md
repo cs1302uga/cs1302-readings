@@ -263,4 +263,26 @@ We highly recommend reading the following closely for a second time:
    * [Project 4 Description](https://github.com/cs1302uga/cs1302-gallery)
       * Pay close attention to the entire project description, especially the part about threads and the Google Gson library for parsing JSON.
 
+## Reading 23
 
+   Read and take thorough notes on the following:
+
+   * [CSCI 1302 Maven Tutorial](https://github.com/cs1302uga/cs1302-tutorials/blob/master/maven.md)
+   * [CSCI 1302 Streams and Chaining Tutorial](https://github.com/cs1302uga/cs1302-tutorials/blob/master/streams/streams-and-chaining.md)
+      * The bulk of this material should not be new to you as you've already implemented and used the majority 
+        of the Stream methods (map, filter, reduce, etc) in your GenList project. When we use Java Streams we are 
+        using similar methods where the implementation is already provided.
+      * For example, these two code snippets result in the same value:
+         * List integers = ... // list containing {1, 2, 3} created.
+         * Integer reduced = integers.stream().reduce(23, (a, b) -> a + b);
+         * GenList glIntegers = ... // genlist containing {1, 2, 3} created.
+         * Integer glReduced = glIntegers.reduce(23, (a, b) -> a + b);
+   * Optional Further Reading: [Sitepoint Java 8 Streams Introduction](https://www.sitepoint.com/java-8-streams-filter-map-reduce/)
+
+## Reading 24
+
+   Read and take thorough notes on the following:
+
+   * [CSCI 1302 Recursion Tutorial](https://github.com/cs1302uga/cs1302-tutorials/blob/master/recursion.md)
+   * [Project 4 Intro Video](https://youtu.be/ST4yeoZrMs4)
+   
