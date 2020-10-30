@@ -286,3 +286,9 @@ We highly recommend reading the following closely for a second time:
    * [CSCI 1302 Recursion Tutorial](https://github.com/cs1302uga/cs1302-tutorials/blob/master/recursion.md)
    * [Project 4 Intro Video](https://youtu.be/ST4yeoZrMs4)
    
+## Reading 25
+
+   Read and take thorough notes on the following:
+
+   * [java.io.File API Documentation](https://docs.oracle.com/javase/8/docs/api/java/io/File.html)
+   
