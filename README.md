@@ -292,3 +292,13 @@ We highly recommend reading the following closely for a second time:
 
    * [java.io.File API Documentation](https://docs.oracle.com/javase/8/docs/api/java/io/File.html)
    
+   
+## Reading 26
+   Read and take thorough notes on the following:
+
+   * [CSCI 1302: Setting up your Own GitHub Account](https://github.com/cs1302uga/cs1302-tutorials/blob/master/github-setup.md)
+      * This requires you to apply for a free student account which can take some time to be approved. Please plan ahead to have this done for later exercises.
+   * Laurie A. Williams and Robert R. Kessler. 2000. [All I Really Need to Know About Pair Programming I Learned in Kindergarten](http://proxy-remote.galib.uga.edu/login?url=https://cacm.acm.org/magazines/2000/5/7671-all-i-really-need-to-know-about-pair-programming-i-learned-in-kindergarten/fulltext). Commun. ACM 43, 5 (May 2000), 108-114.
+   * Gregory Goth. 2016. [Pair Programming is still Vibrant](https://cacm.acm.org/news/201181-pair-programming-is-still-vibrant/fulltext). Commun. ACM: ACM News (April 14, 2016).
+   * Optional (includes audio version): James Somers. 2018. [The Friendship that made Google Huge](https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge). New Yorker. Conde Nast. (December 10, 2018).
+   
