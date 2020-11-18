@@ -302,3 +302,19 @@ We highly recommend reading the following closely for a second time:
    * Gregory Goth. 2016. [Pair Programming is still Vibrant](https://cacm.acm.org/news/201181-pair-programming-is-still-vibrant/fulltext). Commun. ACM: ACM News (April 14, 2016).
    * Optional (includes audio version): James Somers. 2018. [The Friendship that made Google Huge](https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge). New Yorker. Conde Nast. (December 10, 2018).
    
+## Reading 27
+
+   Read and take thorough notes on the following:
+
+   * [CSCI 1302 Algorithm Analysis Tutorial](https://github.com/cs1302uga/cs1302-tutorials/blob/master/algo-analysis.md)
+
+<hr/>
+
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+<small>
+Copyright &copy; Michael E. Cotterell and the University of Georgia.
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a> to students and the public.
+The content and opinions expressed on this Web page do not necessarily reflect the views of nor are they endorsed by the University of Georgia or the University System of Georgia.
+</small>
+   
