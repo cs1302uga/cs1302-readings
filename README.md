@@ -308,6 +308,18 @@ We highly recommend reading the following closely for a second time:
 
    * [CSCI 1302 Algorithm Analysis Tutorial](https://github.com/cs1302uga/cs1302-tutorials/blob/master/algo-analysis.md)
 
+## Reading 28
+
+   Fully engage with the following again (in particular, pay attention to the tricky example involving a logarithm as well as the section on space complexity):
+
+   * [CSCI 1302 Algorithm Analysis Tutorial](https://github.com/cs1302uga/cs1302-tutorials/blob/master/algo-analysis.md)
+   
+## Reading 29
+
+   Read and take thorough notes on the following:
+   
+   * [CSCI 1302 Big-O Tutorial](http://csweb.cs.uga.edu/~mec/cs1302-bigo/)
+
 <hr/>
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
